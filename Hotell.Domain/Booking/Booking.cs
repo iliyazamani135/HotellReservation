@@ -1,6 +1,4 @@
-﻿using Hotell.Domain.Booking;
-
-public class Booking
+﻿public class Booking
 {
     public int Id { get; private set; }
     public Customer Customer { get; private set; }

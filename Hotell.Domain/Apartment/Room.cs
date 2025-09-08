@@ -1,6 +1,4 @@
-﻿using Hotell.Domain.Apartment;
-
-public class Room
+﻿public class Room
 {
     public int Id { get; private set; }
     public string Number { get; private set; }
